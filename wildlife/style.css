@@ -1,0 +1,76 @@
+* {
+    list-style-type: none;
+}
+
+.logo {
+    display: flex; 
+    float: left;
+    padding-left: 121px;
+    padding-top: 20px;
+}
+
+.logo_text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    margin: 7.25px;
+    display: flex;
+    align-items: center;
+    color: #F7F7F7;
+    width: 75px;
+    text-transform: uppercase;
+}
+.header {
+    height: 779px;
+    width: 1440px;
+    background-image: url(./header_background_fox.jpg);
+}
+
+.navList {
+    display: flex;
+    padding-right: 30px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.nav_list_UI {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 60px;
+    color: #F7F7F7;
+    width: 96px;
+    height: 60px;
+}
+
+.nav_list_sign_in {
+    text-align: center;
+    color: #F7F7F7;
+    border: 2px solid #30ba8e00;
+    box-sizing: border-box;
+    border-width: 20px;
+    border-top: 18px;
+    border-bottom: 18px;
+    border-radius: 5px;
+    outline: 2px solid #CD6326;
+    outline-offset: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+}
+.text {
+    color: #30ba8e00;
+    font-size: 0.5px;
+}
+
