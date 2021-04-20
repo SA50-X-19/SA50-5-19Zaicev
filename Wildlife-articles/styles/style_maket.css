@@ -27,7 +27,7 @@
 header {
     height: 779px;
     width: 1440px;
-    background-image: url(/Wildlife-articles/images_wildlife/header_background_fox.jpg);
+    background-image: url(./Wildlife-articles/images_wildlife/header_background_fox.jpg);
 }
 .nav {
     width: 100%;
