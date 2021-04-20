@@ -9,7 +9,7 @@
     padding-top: 20px;
 }
 .footer_logo {
-    background-image: url(./Wildlife-footer/images_wildlife/logo_wildlife.svg);
+    background-image: url(images_wildlife/logo_wildlife.svg);
     background-repeat: no-repeat;
     height: 69px;
     width: 240px;
@@ -46,7 +46,7 @@
 
 footer {
     display: flex;
-    background-image: url(./images_wildlife/leaves.svg);
+    background-image: url(images_wildlife/leaves.svg);
     background-repeat: no-repeat;
     background-position: top center;
     background-color:#02160b;
@@ -60,7 +60,7 @@ footer {
 header {
     height: 779px;
     width: 1440px;
-    background-image: url(./images_wildlife/header_background_fox.jpg);
+    background-image: url(images_wildlife/header_background_fox.jpg);
 }
 .nav {
     width: 100%;
